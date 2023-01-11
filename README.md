@@ -1,1 +1,1 @@
-# quick_sort
+# Quicksort algorithm
